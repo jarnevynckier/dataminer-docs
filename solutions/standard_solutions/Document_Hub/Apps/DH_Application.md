@@ -15,17 +15,19 @@ The DocumentHub application is a comprehensive low-code application designed for
 
 The following sections and features are available in the app:
 
+- ![Home](~/solutions/images/DocumentHub_Home.svg) **Home**: View documents across your configured buckets, quickly filter by file name, bucket, or file type, and review the metadata details that support your workflows.
+
+- ![Upload](~/solutions/images/DocumentHub_Upload.svg) **Upload**: Upload new documents to configured storage backends. Select the appropriate bucket to ensure files are stored in the correct location with proper metadata.
+
+- ![Settings](~/solutions/images/DocumentHub_Settings.svg) **Settings**: Connect and manage cloud storage repositories and local storage options. Configure credentials and access settings. Available to administrators only.
+
+- ![Buckets](~/solutions/images/DocumentHub_Buckets.svg) **Buckets**: Configure and manage document buckets. Define which file types go where, set upload restrictions, and manage metadata templates. Available to administrators only.
+
 - ![SharePoint](~/solutions/images/DocumentHub_SharePoint.svg) **SharePoint**: Browse files stored in your SharePoint repository, quickly filter by name or bucket, and inspect the full metadata set for each file.
 
 - ![DataMiner](~/solutions/images/DocumentHub_DataMiner.svg) **DataMiner**: Access files stored on your DataMiner server, use name and bucket filters to narrow down results, and review all available metadata details.
 
 - ![DOM](~/solutions/images/DocumentHub_DOM.svg) **DOM**: Explore files linked to DOM records, find content by filtering on name and bucket, and view the complete metadata context used in your workflows.
-
-- ![Upload](~/solutions/images/DocumentHub_Upload.svg) **Upload**: Upload new documents to configured storage backends. Select the appropriate bucket to ensure files are stored in the correct location with proper metadata.
-
-- ![Buckets](~/solutions/images/DocumentHub_Buckets.svg) **Buckets**: Configure and manage document buckets. Define which file types go where, set upload restrictions, and manage metadata templates. Available to administrators only.
-
-- ![Source Configuration](~/solutions/images/DocumentHub_Settings.svg) **Source Configuration**: Connect and manage cloud storage repositories and local storage options. Configure credentials and access settings. Available to administrators only.
 
 - ![About](~/solutions/images/DocumentHub_About.svg) **About**: Provides information on the **version** of the DocumentHub package.
 
